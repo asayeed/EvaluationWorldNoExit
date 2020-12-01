@@ -8,11 +8,11 @@ Ph.D. students from the computational linguistics program at the department of P
 This page is a work in progress.
 
 ### Schedule
-* 2020 November 12 15:30 CET - Introductory session and (intro.pdf)[presentation] by Asad
+* 2020 November 12 15:30 CET - Introductory session and [presentation](intro.pdf) by Asad
 * 2020 November 19 - EMNLP conference, holiday
 * 2020 November 26 - Swedish Language Technology Conference
 * 2020 December 3 15:30 CET - Discussion (led by Asad) of:
-** Dror et al. (2018). (https://www.aclweb.org/anthology/P18-1128/)[The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing]. LREC.
+** Dror et al. (2018). [The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing](https://www.aclweb.org/anthology/P18-1128/). LREC.
 * 2020 December 10 15:30 CET - Discussion on comparing vector embeddings (led by Jean-Philippe Bernardy, possible time change)
 * 2020 December 17 - TBD
 
