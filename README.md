@@ -8,7 +8,7 @@ Ph.D. students from the computational linguistics program at the department of P
 This page is a work in progress.
 
 ### Schedule
-. 2020 November 12 15:30 CET - Introductory session and Presentation by Asad
-. 2020 November 19 - EMNLP conference, holiday
-. 2020 November 26 - Swedish Language Technology Conference
-. 2020 December 3 - 
+* 2020 November 12 15:30 CET - Introductory session and Presentation by Asad
+* 2020 November 19 - EMNLP conference, holiday
+* 2020 November 26 - Swedish Language Technology Conference
+* 2020 December 3 - 
