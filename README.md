@@ -19,3 +19,7 @@ This page is a work in progress.
 ### Mailing list
 
 There will be one soon.
+
+### Reading List (suggestions)
+
+* [Significance Tests for Neural Networks](https://arxiv.org/abs/1902.06021)(suggested by Axel)
