@@ -14,11 +14,11 @@ This page is a work in progress.
 * 2020 December 3 15:30 CET - Discussion (led by Asad) of:
 ** Dror et al. (2018). [The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing](https://www.aclweb.org/anthology/P18-1128/). LREC.
 * 2020 December 10 15:30 CET - Discussion on comparing vector embeddings (led by Jean-Philippe Bernardy, possible time change)
-* 2020 December 17 - TBD
+* 2020 December 17 15:30 CET - Discussion (led by Vlad Maraev) of Passoneau and Carpenter (2014). [The Benefits of a Model of Annotation](https://www.aclweb.org/anthology/Q14-1025/). TACL.
 
 ### Mailing list
 
-There will be one soon.
+There is one, write to Asad to join it.
 
 ### Reading List (suggestions)
 
