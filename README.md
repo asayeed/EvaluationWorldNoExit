@@ -15,6 +15,7 @@ This page is a work in progress.
 ** Dror et al. (2018). [The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing](https://www.aclweb.org/anthology/P18-1128/). LREC.
 * 2020 December 10 15:30 CET - Discussion on comparing vector embeddings (led by Jean-Philippe Bernardy, possible time change)
 * 2020 December 17 15:30 CET - Discussion (led by Vlad Maraev) of Passoneau and Carpenter (2014). [The Benefits of a Model of Annotation](https://www.aclweb.org/anthology/Q14-1025/). TACL.
+* 2020 January 21 15:30 CET - Discussion (led by Axel Almquist) of Horel and Giesecke (2019). [Significance Tests for Neural Networks](https://arxiv.org/abs/1902.06021). Journal of Machine Learning Research.
 
 ### Mailing list
 
