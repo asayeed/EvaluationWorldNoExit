@@ -16,6 +16,7 @@ This page is a work in progress.
 * 2020 December 10 15:30 CET - Discussion on comparing vector embeddings (led by Jean-Philippe Bernardy, possible time change)
 * 2020 December 17 15:30 CET - Discussion (led by Vlad Maraev) of Passoneau and Carpenter (2014). [The Benefits of a Model of Annotation](https://www.aclweb.org/anthology/Q14-1025/). TACL.
 * 2020 January 21 15:30 CET - Discussion (led by Axel Almquist) of Horel and Giesecke (2019). [Significance Tests for Neural Networks](https://arxiv.org/abs/1902.06021). Journal of Machine Learning Research.
+* 2020 January 28 15:30 CET - Discussion (led by Nikolai Ilinykh) of Sellam et al. (2020). [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704/). ACL.
 
 ### Mailing list
 
