@@ -18,6 +18,7 @@ This page is a work in progress.
 * 2020 January 21 15:30 CET - Discussion (led by Axel Almquist) of Horel and Giesecke (2019). [Significance Tests for Neural Networks](https://arxiv.org/abs/1902.06021). Journal of Machine Learning Research.
 * 2020 January 28 15:30 CET - Discussion (led by Nikolai Ilinykh) of Sellam et al. (2020). [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704/). ACL.
 * 2020 February 4 15:30 CET - Discussion (led by Adam Ek) of Rethmeier et al. (2020).  [TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in(Un-)Supervised NLP](https://arxiv.org/pdf/1912.00982.pdf). UAI.
+* 2020 February 11 15:30 CET - Discussion (led by Bill Noble) of Dubossarsky et al. (2017). [Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models](https://doi.org/10.18653/v1/D17-1118). EMNLP.
 
 ### Mailing list
 
