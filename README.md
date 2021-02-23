@@ -19,6 +19,8 @@ This page is a work in progress.
 * 2020 January 28 15:30 CET - Discussion (led by Nikolai Ilinykh) of Sellam et al. (2020). [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704/). ACL.
 * 2020 February 4 15:30 CET - Discussion (led by Adam Ek) of Rethmeier et al. (2020).  [TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in(Un-)Supervised NLP](https://arxiv.org/pdf/1912.00982.pdf). UAI.
 * 2020 February 11 15:30 CET - Discussion (led by Bill Noble) of Dubossarsky et al. (2017). [Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models](https://doi.org/10.18653/v1/D17-1118). EMNLP.
+* 2020 February 18 15:30 CET - project proposal presentations; LMER overview given by Asad Sayeed.
+* 2020 February 25 15:30 CET - Discussion (led by Vidya Somashekarappa) of Fischer et al. (2018). [RT-GENE: Real-Time Eye Gaze Estimationin Natural Environments](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf). ECCV.
 
 ### Mailing list
 
